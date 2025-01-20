@@ -67,19 +67,22 @@ This repository contains the full schematic PDF.
 
 ### PCB Layout
 
-PCB - Top Layer 
+**PCB - Top Layer**
 <p align="center">
   <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/top_layer.png?raw=true" width="600">
 </p>
-PCB - Bottom Layer
+
+**PCB - Bottom Layer**
 <p align="center">
   <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/bottom_layer.png?raw=true" width="600">
 </p>
-PCB - All Layers 
+
+**PCB - All Layers**
 <p align="center">
   <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/all_layers.png?raw=true" width="600">
 </p>
-PCB - 3D model 
+
+**PCB - 3D model**
 <p align="center">
   <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/3D_model.png?raw=true" width="600">
 </p>
