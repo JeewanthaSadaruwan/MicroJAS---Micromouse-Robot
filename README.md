@@ -12,7 +12,6 @@ MicroJAS represents a commitment to continuous improvement, pushing the boundari
 4. [PCB Design](#pcb-design)
     - [Schematic Design](#schematic-design)
     - [PCB Layout](#pcb-layout)
-
 5. [Software](#software)
 6. [How to Build](#how-to-build)
 7. [How to Use](#how-to-use)
