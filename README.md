@@ -59,6 +59,10 @@ The **MicroJAS Micromouse Robot** is a high-performance robotic solution designe
 ### Schematic Design
 The schematics for the MicroJAS Micromouse Robot were meticulously crafted using Altium Designer, a professional-grade PCB design tool. The schematics include all essential components, connections, and subsystems, ensuring a robust and efficient design.
 
+<p align="center">
+  <img src="" width="800">
+</p>
+
 
 
 ## Our Vision:
