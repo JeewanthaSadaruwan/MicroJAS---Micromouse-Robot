@@ -81,7 +81,7 @@ PCB - All Layers
 </p>
 PCB - 3D model 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/3D_model.png?raw=true" width="600">
 </p>
 
 
