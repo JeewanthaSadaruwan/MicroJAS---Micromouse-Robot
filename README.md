@@ -77,7 +77,7 @@ PCB - Bottom Layer
 </p>
 PCB - All Layers 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/all_layers.png?raw=true" width="600">
 </p>
 PCB - 3D model 
 <p align="center">
