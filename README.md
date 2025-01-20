@@ -59,10 +59,30 @@ The **MicroJAS Micromouse Robot** is a high-performance robotic solution designe
 ### Schematic Design
 The schematics for the MicroJAS Micromouse Robot were meticulously crafted using Altium Designer, a professional-grade PCB design tool. The schematics include all essential components, connections, and subsystems, ensuring a robust and efficient design.
 
+This photo is a example image of schmatics.(Microcontroller)
+This repository contains the full schematic PDF.
 <p align="center">
-  <img src="" width="800">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/sch1.png?raw=true" width="600">
 </p>
 
+### PCB Layout
+
+PCB - Top Layer 
+<p align="center">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/sch1.png?raw=true" width="600">
+</p>
+PCB - Bottom Layer
+<p align="center">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/sch1.png?raw=true" width="600">
+</p>
+PCB - All Layers 
+<p align="center">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/sch1.png?raw=true" width="600">
+</p>
+PCB - 3D model 
+<p align="center">
+  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/sch1.png?raw=true" width="600">
+</p>
 
 
 ## Our Vision:
