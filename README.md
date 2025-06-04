@@ -62,29 +62,27 @@ The schematics for the MicroJAS Micromouse Robot were meticulously crafted using
 This photo is a example image of schmatics.(Microcontroller)
 This repository contains the full schematic PDF.
 <p align="center">
-  <img src="pictures/sch1.jpg" width="400" alt="Kobuki Robot"/>
+  <img src="pictures/sch1.png" width="600" alt=""/>
 </p>
 
 ### PCB Layout
 
 **PCB - Top Layer**
 <p align="center">
-  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/top_layer.png?raw=true" width="600">
+  <img src="pictures/top_layer.png" width="600" alt=""/>
 </p>
-
 **PCB - Bottom Layer**
 <p align="center">
-  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/bottom_layer.png?raw=true" width="600">
+  <img src="pictures/bottom_layer.png" width="600" alt=""/>
 </p>
 
 **PCB - All Layers**
 <p align="center">
-  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/all_layers.png?raw=true" width="600">
+  <img src="pictures/all_layers.png" width="600" alt=""/>
 </p>
-
 **PCB - 3D model**
 <p align="center">
-  <img src="https://github.com/JeewanthaSadaruwan/MicroJAS---Micromouse-Robot/blob/main/3D_model.png?raw=true" width="600">
+  <img src="pictures/3D_model.png" width="600" alt=""/>
 </p>
 
 ---
